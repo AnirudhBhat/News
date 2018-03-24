@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/headlines_news"
+        android:title="Top Headlines"/>
+
+
+    <item
+        android:id="@+id/bbc_news"
+        android:title="BBC"/>
+
+    <item
+        android:id="@+id/financial_times_news"
+        android:title="Financial Times"/>
+
+    <item
+        android:id="@+id/national_geographic_news"
+        android:title="National Geographic"/>
+
+    <item
+        android:id="@+id/techcrunch_news"
+        android:title="Techcrunch"/>
+
+    <item
+        android:id="@+id/the_economist_news"
+        android:title="The Economist"/>
+
+    <item
+        android:id="@+id/the_hindu_news"
+        android:title="The Hindu"/>
+
+    <item
+        android:id="@+id/the_times_of_india_news"
+        android:title="The Times Of India"/>
+
+    <item
+        android:id="@+id/reddit_news"
+        android:title="Reddit"/>
+
+    <item
+        android:id="@+id/espn_news"
+        android:title="ESPN"/>
+
+    <item
+        android:id="@+id/hacker_news"
+        android:title="Hacker News"/>
+
+</menu>
